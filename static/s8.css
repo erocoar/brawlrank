@@ -50,6 +50,7 @@ body{
 }
 
 .indicator{
+    float:left;
     border:1px solid #C8D4E3;
     border-radius: 3px;
     background-color: white;

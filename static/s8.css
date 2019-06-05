@@ -89,5 +89,6 @@ table{
 }
 
 .brawlbox{
+    display: table;
     margin:0 auto;
 }

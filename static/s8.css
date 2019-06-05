@@ -53,8 +53,8 @@ body{
     border:1px solid #C8D4E3;
     border-radius: 3px;
     background-color: white;
-    height:100px;
-    vertical-align:left;
+    height:90;
+    vertical-align:middle;
 }
 
 .indicator_text{

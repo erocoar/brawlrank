@@ -54,7 +54,7 @@ body{
     border-radius: 3px;
     background-color: white;
     height:100px;
-    vertical-align:middle;
+    vertical-align:left;
 }
 
 .indicator_text{
